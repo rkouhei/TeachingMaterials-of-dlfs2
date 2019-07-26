@@ -14,7 +14,8 @@ git clone https://github.com/oreilly-japan/deep-learning-from-scratch-2.git
 
 ## ノートブックについて
 1・2章は事前学習済みの想定のため、コードのみとなっています。
-3章からはちょっとした説明を入れています。
+4章・6章・8章は担当外のため、特に説明は入れていません。
+3章・5章・7章はちょっとした説明を入れています。
 
 - Chapter03
     - [word2vec](./3_word2vec.ipynb)
